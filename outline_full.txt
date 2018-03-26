@@ -1,0 +1,32 @@
+1-Algorithms and Data Structures:
+  1.1-What are Algorithms?what are the roles that Algorithms do in computers?
+  1.2-What are Data Structures?what are the roles of Data Structure in computers?
+  1.3-How to know if an Algorithm is good or not:the Efficiency of Algorithms.
+  1.4-Example of a slow Algorithm :selection sort.
+  1.5-Example of a faster Algorithm:merge sort.
+  1.6-Example of a  data structure:arrays.
+  1.7-Example of an alternative of arrays :Linked list.
+  1.8-Example of another alternative data structure:Binary Search Tree.
+
+2-Readability of the code:
+ 2.1-what is a clean code? why your code should be clean?
+   2.1.1-The cost of making a complicated and messy code.
+   2.1.2-So what is a clean code?
+ 2.2-Some concrete examples to clear up the concepte.
+   2.2.1-How to choose good names ?
+   2.2.2-when to use functions?How to make a good one?
+   2.2.3-when to make a comment?How to make good comments?
+   2.2.4-How to improve your code Aesthetically?
+
+3-Design Patterns:
+ 3.1-what is a Design Pattern?How Design Patterns are useful?
+ 3.2-A concrete example on using one of the patterns :The strategy pattern. 
+
+  
+
+
+
+
+   
+
+ 
