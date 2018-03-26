@@ -1,0 +1,24 @@
+-Algorithm
+ -what is an algorithm ?why we need them?
+ -example of an slow inefficient algorithm.(sorting,selection sort).
+ -example of a faster more efficient algorithm.(merge sort)
+ 
+ -what is a data structure?why we need them?
+ -example of a basic data structure that has problem(resizable array).
+ -example of a data structure that support effecient algo (binary search tree).
+
+-readability:clean code.
+ -what is clean code ? and why you should have it.
+ -example1 to clarify the idea.
+ -example2.
+ -example3.
+
+
+-design pattern:
+ -what is design pattern ? and the why to use it?
+ -example.
+ -example.
+
+
+
+ 
